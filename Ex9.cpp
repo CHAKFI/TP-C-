@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 	   cin>>N;
     	Som=Som+N;
 	}
-	cout<<Som;
+	cout<<endl<<"La somme = "<<Som;
 	
 	
 	
