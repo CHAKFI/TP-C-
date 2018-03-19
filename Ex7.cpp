@@ -12,8 +12,8 @@ int main(int argc, char** argv) {
 	for (i=8;i<=23;i++)
 	  {
 	  	cout<<i<<endl;
+		}
 		
-	  }
 	
 	return 0;
 	

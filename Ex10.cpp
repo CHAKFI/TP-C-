@@ -11,9 +11,9 @@ int main(int argc, char** argv) {
 	
 	
 
-	 for(i=1;i<=10;i++)
+	 for(i=0;i<10;i++)
         {
-        cout<<"Entrer l entier_"<<i<<endl;
+        cout<<"Entrer l entier_"<<i+1<<endl;
 		cin>>N;
         if(i==0)posmin=N;
 		else if(N<posmin)posmin=N;
