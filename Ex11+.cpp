@@ -12,19 +12,19 @@ int main(int argc, char** argv) {
 		do
 		{
 			cout<<"Veuillez entrer un entier (>=5)"<<endl;
-	cin>>n;
-		if(n>=5)
-	    {
+	         cin>>n;
+		
+	    
 		
 	         for(i=5;i<=n;i++)
 	         {
 	         	sm=i*i*i;
 			 }
-			cout<<"La somme des cubes --->\t"<<sm; 
-	   }
-       }
-	   while (!(n>=5)); 
+			 
 	   
+       }
+	   while (n<5); 
+	   cout<<"La somme des cubes --->\t"<<sm;
 	
 	return 0;
 }
