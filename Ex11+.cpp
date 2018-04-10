@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 		
 	         for(i=5;i<=n;i++)
 	         {
-	         	sm=i*i*i;
+	         	sm+=i*i*i;
 			 }
 			 
 	   
