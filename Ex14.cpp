@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-/*  ANOUAR Abderrazzak  && CHAKFI Ahmed */
 
+/*CHAKFI Ahmed && ANOUAR Abderrazzak*/
 
 int main(int argc, char** argv) {
 	
